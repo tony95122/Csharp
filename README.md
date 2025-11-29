@@ -27,3 +27,17 @@ Neste repositório, você encontrará tudo o que um iniciante precisa saber para
     * 3.5. Funções Básicas (funcoes_basicas.cs) 
 
 ---
+## 1. 💡 Visão Geral do C#
+
+### 1.1. O que é C# (C Sharp)?
+
+C# (pronuncia-se "C Sharp") é uma *linguagem de programação* moderna, orientada a objetos e fortemente tipada. Foi desenvolvida pela Microsoft como parte da sua iniciativa .NET e é padronizada pela ECMA e ISO. É uma linguagem que combina a produtividade do Visual Basic com o poder do C++ e a sintaxe elegante do Java.
+
+### 1.2. 🚀 Principais Áreas de Aplicação
+
+* *Desenvolvimento Web:* Criação de aplicações web robustas usando ASP.NET Core.
+* *Desenvolvimento Desktop:* Criação de aplicações nativas para Windows (Windows Forms, WPF).
+* *Desenvolvimento Mobile:* Criação de aplicações para iOS e Android usando Xamarin/.NET MAUI.
+* *Desenvolvimento de Jogos:* É a linguagem primária utilizada no motor de jogos Unity, um dos mais populares do mundo.
+* *Serviços em Nuvem (Cloud Computing):* Criação de serviços e APIs no Microsoft Azure.
+
