@@ -1,0 +1,13 @@
+# Arquivos de build e pastas geradas
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de cache e metadados de pacotes (NuGet)
+.nuget/
+*.nupkg
+*.suo
+*.user
+*.bak
+*.cache
+project.assets.json
+project.nuget.cache
