@@ -27,17 +27,6 @@ Neste repositório, você encontrará tudo o que um iniciante precisa saber para
     * 3.5. Funções Básicas (funcoes_basicas.cs) 
 
 ---
-#### 2.3.2. ▶ Como Iniciar um Projeto Básico
-Usamos a ferramenta de linha de comando dotnet para criar a estrutura do nosso projeto:
-
-1.  *Navegue no Terminal:* Abra o terminal na pasta principal do seu repositório ou na pasta exemplos/.
-2.  *Crie o Projeto:* Execute o comando dotnet new console para criar o esqueleto de uma aplicação C# de console.
-
-    bash
-    dotnet new console -n MeuPrimeiroApp
-    
-    *O comando cria uma nova pasta chamada MeuPrimeiroApp com o arquivo inicial Program.cs.*
-
 
 ## 1. 💡 Visão Geral do C#
 
@@ -109,4 +98,14 @@ Para que o VS Code funcione perfeitamente com C#, você precisará de um conjunt
 3.  Clique em *Instalar*.
 
 
+#### 2.3.2. ▶ Como Iniciar um Projeto Básico
+Usamos a ferramenta de linha de comando dotnet para criar a estrutura do nosso projeto:
+
+1.  *Navegue no Terminal:* Abra o terminal na pasta principal do seu repositório ou na pasta exemplos/.
+2.  *Crie o Projeto:* Execute o comando dotnet new console para criar o esqueleto de uma aplicação C# de console.
+
+    bash
+    dotnet new console -n MeuPrimeiroApp
+    
+    *O comando cria uma nova pasta chamada MeuPrimeiroApp com o arquivo inicial Program.cs.*
 
