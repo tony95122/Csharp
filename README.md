@@ -63,5 +63,25 @@ Acesse a página oficial: Vá para o site oficial do .NET (dotnet.microsoft.com)
 Escolha a Versão e Plataforma:
 Recomendamos baixar a versão mais atualizada.
 Selecione o link de download que corresponde ao seu sistema operacional (Windows, macOS ou Linux).
+
+2. Instalação no Sistema Operacional
+Windows e macOS
+Execute o Instalador: Localize o arquivo que você baixou (geralmente um .exe ou .pkg) e dê um clique duplo para iniciar o assistente de instalação.
+Siga o Assistente: Siga as etapas na tela. Na maioria dos casos, você pode aceitar as configurações padrão e clicar em "Instalar" ou "Next".
+Aguarde: A instalação levará alguns minutos. Ao final, clique em "Concluir".
+
+
+3. Verificar a Instalação
+Após a instalação, é crucial verificar se o C# e o .NET foram configurados corretamente:
+Abra o Terminal/Prompt de Comando: Abra o Terminal (macOS/Linux) ou Prompt de Comando/PowerShell (Windows).
+Execute o Comando de Verificação: Digite o seguinte comando e pressione Enter:
+Bash
+dotnet --version
+Resultado Esperado: Se a instalação foi bem-sucedida, o terminal deve exibir o número da versão do .NET SDK que você acabou de instalar.
+Se a versão for exibida, o C# está pronto para ser usado na sua máquina! O próximo passo é configurar um ambiente de desenvolvimento como o VS Code para escrever o código.
+
+aqui está um link de tutorial no YOUTUBE caso precise de um suporte: https://www.youtube.com/watch?v=jIwa5tT32oU
+
+
 Certifique-se de escolher o .NET SDK (e não apenas o Runtime).
 
