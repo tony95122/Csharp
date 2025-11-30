@@ -51,3 +51,17 @@ C# (pronuncia-se "C Sharp") é uma *linguagem de programação* moderna, orienta
 | *Comunidade Ativa e Suporte Microsoft* contínuo. | |
 
 ---
+
+## 2. 🛠 Configuração do Ambiente
+
+Como Baixar e Instalar C#
+Para começar a programar em C#, você precisa instalar o .NET SDK (Software Development Kit), que é a plataforma que inclui o compilador, as bibliotecas e o tempo de execução necessários para criar e rodar aplicações em C#. Passo a Passo: Instalação do .NET SDK
+O .NET é mantido pela Microsoft e é totalmente cross-platform (funciona no Windows, macOS e Linux).
+
+1. Baixar o Instalador
+Acesse a página oficial: Vá para o site oficial do .NET (dotnet.microsoft.com).
+Escolha a Versão e Plataforma:
+Recomendamos baixar a versão mais atualizada.
+Selecione o link de download que corresponde ao seu sistema operacional (Windows, macOS ou Linux).
+Certifique-se de escolher o .NET SDK (e não apenas o Runtime).
+
