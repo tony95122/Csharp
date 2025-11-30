@@ -108,4 +108,17 @@ Usamos a ferramenta de linha de comando dotnet para criar a estrutura do nosso p
     dotnet new console -n MeuPrimeiroApp
     
     *O comando cria uma nova pasta chamada MeuPrimeiroApp com o arquivo inicial Program.cs.*
+3.  *Abra no VS Code:* No editor, vá em *Arquivo > Abrir Pasta* e selecione a pasta MeuPrimeiroApp.
+4.  *Execute o Programa:* Abra o Terminal Integrado do VS Code (Ctrl+') e rode o comando:
+
+    bash
+    dotnet run
+    
+    Este comando compila o código e executa o programa, mostrando a saída no terminal.
+
+## 3. 📝 Exemplos de Código Básico (/exemplos)
+
+Nesta pasta, você encontrará os códigos essenciais para começar a entender a sintaxe do C#.Os arquivos servem como referência rápida para as principais operações da linguagem.
+
+*(Os links a seguir apontam para os arquivos dentro da pasta exemplos do seu repositório)*
 
