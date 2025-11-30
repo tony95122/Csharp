@@ -63,15 +63,16 @@ Acesse a página oficial: Vá para o site oficial do .NET (dotnet.microsoft.com)
 Escolha a Versão e Plataforma:
 Recomendamos baixar a versão mais atualizada.
 Selecione o link de download que corresponde ao seu sistema operacional (Windows, macOS ou Linux).
+Certifique-se de escolher o .NET SDK (e não apenas o Runtime).
 
-2. Instalação no Sistema Operacional
+3. Instalação no Sistema Operacional
 Windows e macOS
 Execute o Instalador: Localize o arquivo que você baixou (geralmente um .exe ou .pkg) e dê um clique duplo para iniciar o assistente de instalação.
 Siga o Assistente: Siga as etapas na tela. Na maioria dos casos, você pode aceitar as configurações padrão e clicar em "Instalar" ou "Next".
 Aguarde: A instalação levará alguns minutos. Ao final, clique em "Concluir".
 
 
-3. Verificar a Instalação
+4. Verificar a Instalação
 Após a instalação, é crucial verificar se o C# e o .NET foram configurados corretamente:
 Abra o Terminal/Prompt de Comando: Abra o Terminal (macOS/Linux) ou Prompt de Comando/PowerShell (Windows).
 Execute o Comando de Verificação: Digite o seguinte comando e pressione Enter:
@@ -83,5 +84,17 @@ Se a versão for exibida, o C# está pronto para ser usado na sua máquina! O pr
 aqui está um link de tutorial no YOUTUBE caso precise de um suporte: https://www.youtube.com/watch?v=jIwa5tT32oU
 
 
-Certifique-se de escolher o .NET SDK (e não apenas o Runtime).
+
+### 2.3. Configurando o VS Code para C#
+O *Visual Studio Code (VS Code)* é um editor de código leve e a escolha mais popular para o desenvolvimento em C# fora do Visual Studio completo.
+
+#### 2.3.1. ⚙ Instalação das Extensões Necessárias
+Para que o VS Code funcione perfeitamente com C#, você precisará de um conjunto de ferramentas:
+1.  *Abra o Menu de Extensões:* Clique no ícone de Extensões na barra lateral (ou use Ctrl+Shift+X).
+2.  *Instale o C# Dev Kit:*
+    * Pesquise por **C# Dev Kit**.
+    * Esta é a extensão oficial da Microsoft. Ela instala automaticamente todas as dependências (como a extensão C# e o IntelliCode) que fornecem IntelliSense (autocompletar), depuração e gerenciamento de projetos.
+3.  Clique em *Instalar*.
+
+
 
