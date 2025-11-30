@@ -41,3 +41,13 @@ C# (pronuncia-se "C Sharp") é uma *linguagem de programação* moderna, orienta
 * *Desenvolvimento de Jogos:* É a linguagem primária utilizada no motor de jogos Unity, um dos mais populares do mundo.
 * *Serviços em Nuvem (Cloud Computing):* Criação de serviços e APIs no Microsoft Azure.
 
+### 1.3. Prós e Contras da Linguagem
+
+| Prós (Vantagens) | Contras (Desafios) |
+| :--- | :--- |
+| *Integrado ao Ecossistema .NET:* Grande conjunto de bibliotecas e frameworks robustos. | *Curva de Aprendizado:* O ecossistema .NET é vasto e pode ser complexo para iniciantes. |
+| *Fortemente Tipada:* Ajuda a detectar erros de programação em tempo de compilação. | *Performance:* Embora tenha melhorado com o .NET Core/5+, em cenários muito específicos, pode ser menos performática que linguagens de nível mais baixo como C++. |
+| *Gerenciamento Automático de Memória:* O Garbage Collector (Coletor de Lixo) simplifica a gestão de memória, evitando memory leaks. | *Foco em Plataformas Microsoft:* Apesar de ser open-source e multiplataforma, ainda tem um forte vínculo e otimização com o ambiente Windows/Azure. |
+| *Comunidade Ativa e Suporte Microsoft* contínuo. | |
+
+---
