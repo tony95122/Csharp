@@ -123,7 +123,7 @@ Nesta pasta, você encontrará os códigos essenciais para começar a entender a
 *(Os links a seguir apontam para os arquivos dentro da pasta exemplos do seu repositório)*
 
 * **[hello_world.cs](/exemplos/helloworld.cs):** Estrutura básica e saída de texto.
-* **[variaveis_e_tipos.cs](/exemplos/variaveis_e_tipos.cs):** Demonstração de tipos de dados (int, string, bool, etc.).
+* **[variaveis_e_tipos.cs](/exemplos/Variavel.cs):** Demonstração de tipos de dados (int, string, bool, etc.).
 * **[estruturas_condicionais.cs](/exemplos/ESTRUTURAS.cs):** Uso do if, else if e else para tomada de decisões.
 * **[loops.cs](/exemplos/loops.cs):** Implementação dos laços for e while.
 * **[funcoes_basicas.cs](/exemplos/Funcoes.cs):** Criação e chamada de métodos (funções).
