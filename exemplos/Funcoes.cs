@@ -1,7 +1,7 @@
 using System;
 
 // Define um namespace para organizar a aplicação
-namespace ExemploFuncoes
+namespace chsharp.exemplos
 {
     // A classe que contém os métodos
     public class FuncoesBasicas

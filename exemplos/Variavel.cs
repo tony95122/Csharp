@@ -1,12 +1,12 @@
 using System;
 // Define um namespace para organizar o código
-namespace ExemploVariaveis
+namespace chsharp.exemplos
 {
     // A classe principal onde a execução do programa começa
-    class Program
+    class Variaveis
     {
         // O método Main é o ponto de entrada da aplicação
-        static void Main(string[] args)
+        public static void ExecutarVariaveis()
         {
             // ----------------------------------------------------
             // 1. Tipos de Dados Inteiros (Números sem casas decimais)
