@@ -2,7 +2,7 @@ using System;
 
 public class VerificadorDeNumero
 {
-    public static void Main(string[] args)
+    public static void Executarestruturas()
     {
         // 1. Declara e inicializa uma variável inteira
         int numero = 15; 
